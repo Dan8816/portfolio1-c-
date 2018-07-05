@@ -25,7 +25,8 @@ namespace example
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
+            app.UseStaticFiles();//added this line for static files
             app.UseMvc();//added this line
             //app.Run(async (context) => //commented out app.run
             //{

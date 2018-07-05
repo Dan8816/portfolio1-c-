@@ -12,3 +12,14 @@ C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_
 C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.RazorTargetAssemblyInfo.cache
 C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.dll
 C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\bin\Debug\netcoreapp2.1\example.Views.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\bin\Debug\netcoreapp2.1\example.Views.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\example.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\example.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\example.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\Razor\Views\Hello\index.g.cshtml.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\example.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\example.Views.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\example.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Contacts.g.cshtml.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\Get_started\example\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Projects.g.cshtml.cs
