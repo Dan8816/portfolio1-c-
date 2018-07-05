@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\bin\Debug\netcoreapp2.1\example.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\bin\Debug\netcoreapp2.1\example.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\bin\Debug\netcoreapp2.1\example.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\bin\Debug\netcoreapp2.1\example.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\bin\Debug\netcoreapp2.1\example.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ASP_Essentials\get_started\example\obj\Debug\netcoreapp2.1\example.pdb
